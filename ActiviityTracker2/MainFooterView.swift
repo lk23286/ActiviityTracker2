@@ -19,8 +19,9 @@ struct MainFooterView: View {
                 ForEach(activities) { activity in
                    MainFooterViewLine(activity: activity)
                 }
-           
+                .background(.black)
         }
+       
         
 
 

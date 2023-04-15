@@ -20,7 +20,7 @@ struct MainHeaderView: View {
                     .foregroundColor(activity.arcThem.lightColor)
                     .fontWeight(.heavy)
             }
-            
+            .background(.black)
         }
     }
     

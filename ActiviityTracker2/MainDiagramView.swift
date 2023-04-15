@@ -24,6 +24,7 @@ struct MainDiagramView: View {
                     
                 }
             }
+            .background(.black)
           
     }
 }

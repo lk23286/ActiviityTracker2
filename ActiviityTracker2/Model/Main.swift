@@ -11,10 +11,3 @@ import SwiftUI
 struct Main {
     var activities: [Activity]
 }
-
-
-
-
-
-
-

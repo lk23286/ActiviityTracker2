@@ -22,7 +22,7 @@ struct MainView: View {
             Spacer()
             MainFooterView(activities: main.activities)
         }
-       
+        .background(.black)
     }
         
 }
